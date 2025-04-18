@@ -41,9 +41,6 @@ llama.cpp: llama.cpp GitHub
 
 Spring Boot: Spring Boot Official
 
-📷 Screenshots
-![Screenshot](p/home/devarshikothari/Pictures/Screenshots/Screenshot from 2025-04-19 00-23-33.png)
-
 ⚙️ Future Enhancements
 Adding support for multiple models.
 
