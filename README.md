@@ -16,3 +16,38 @@ This project is a **Java-based chatbot** utilizing the **TinyLlama-1.1B-Chat-v0.
 
    ```bash
    java -Dllamacpp.model=/path/to/your/TinyLlama-1.1B-Chat-v0.6.Q4_K.gguf -jar target/LLMCpp-Chat-SpringBoot.jar
+Replace /path/to/your/ with the actual path to your downloaded .gguf model file.
+
+🤖 Features
+TinyLlama-1.1B-Chat-v0.6 model integration.
+
+Lightweight and efficient for use cases requiring fast inference.
+
+Java-based implementation using Spring Boot for easy extensibility.
+
+📦 Dependencies
+Java 17 or higher
+
+Spring Boot
+
+llama.cpp
+
+Hugging Face models
+
+🌐 Credits
+TinyLlama: Hugging Face - player1537
+
+llama.cpp: llama.cpp GitHub
+
+Spring Boot: Spring Boot Official
+
+📷 Screenshots
+![Screenshot](p/home/devarshikothari/Pictures/Screenshots/Screenshot from 2025-04-19 00-23-33.png)
+
+⚙️ Future Enhancements
+Adding support for multiple models.
+
+Docker support for easier deployment.
+
+API integrations for real-time use cases.
+
